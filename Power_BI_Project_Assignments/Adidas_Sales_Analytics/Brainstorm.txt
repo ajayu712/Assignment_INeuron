@@ -1,0 +1,5 @@
+Total Sales
+Total Profit
+Total Units Sold
+Distinct Apparels and Difference between men and women apparel
+
